@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Symmetrical-Guacamole</string>
+    <string name="app_name">AndroidTest</string>
+    <string name="action_refresh">Refresh</string>
 </resources>
